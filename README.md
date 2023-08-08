@@ -1,0 +1,1 @@
+Project that was created while I was following a Udemy tutorial on LangChain, Pinecone, and OpenAI led by Andrei Dumitrescu
